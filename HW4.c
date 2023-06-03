@@ -1,4 +1,4 @@
-// Yunus Emre Gezici 150121066
+
 #include <stdio.h>
 
 typedef struct
